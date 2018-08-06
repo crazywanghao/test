@@ -2,3 +2,5 @@ First line for GIT
 this is second line
 This is a line from Issue 3
 This is line a line from issue2
+
+This is a test. 
